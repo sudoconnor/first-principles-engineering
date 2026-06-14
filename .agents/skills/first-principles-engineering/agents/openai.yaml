@@ -1,0 +1,4 @@
+interface:
+  display_name: "First Principles Engineering"
+  short_description: "Simplify systems before adding parts"
+  default_prompt: "Use $first-principles-engineering to design the smallest reliable version of this change."

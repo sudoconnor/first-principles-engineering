@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Simplification Refactor"
+  short_description: "Simplify existing code safely"
+  default_prompt: "Use $repo-simplification-refactor to find one small behavior-preserving simplification in this repo."

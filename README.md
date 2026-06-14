@@ -8,7 +8,7 @@ This repository was created from shared ChatGPT conversations about engineering 
 
 - `.agents/skills/first-principles-engineering/SKILL.md`: the Codex skill.
 - `.agents/skills/repo-simplification-refactor/SKILL.md`: a behavior-preserving refactor skill for existing repos.
-- `.agents/skills/first-principles-engineering/agents/openai.yaml`: optional UI metadata for the skill.
+- `.agents/skills/*/agents/openai.yaml`: optional UI metadata for the skills.
 - `AGENTS.md`: optional always-on repository guidance that points Codex toward the same philosophy.
 
 ## Install
